@@ -7,3 +7,4 @@ node_modules
 .dockerignore
 Dockerfile
 .github
+k8s
